@@ -26,4 +26,4 @@ function calculaRegra(a, b, c, d) {
     }
 }
 
-console.log(calculaRegra(100, 320, 40, 0));
+/* console.log(calculaRegra(100, 320, 40, 0)); */
