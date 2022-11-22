@@ -14,6 +14,7 @@
 function fazNumeroAleatorio() {
   
   let aleatorios = new Array();
+  
   for (let i = 0; i < 6; i++) {
     let aleatorio = Math.floor(Math.random() * 60);
 
